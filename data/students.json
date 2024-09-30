@@ -1,0 +1,17 @@
+[
+  {
+    "id": "12345",
+    "name": "saif",
+    "age": 35,
+    "grade": " 12",
+    "planet": "Mars"
+  },
+
+  {
+    "id": "12356",
+    "name": "osama",
+    "age": 24,
+    "grade": "13",
+    "planet": "Mars"
+  }
+]
